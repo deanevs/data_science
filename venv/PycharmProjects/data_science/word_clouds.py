@@ -4,6 +4,7 @@ from pathlib import Path
 from wordcloud import WordCloud, STOPWORDS
 
 wdir = Path(r'C:\Users\212628255\PycharmProjects\data_science')
+out = Path(r"C:\Users\212628255\Desktop")
 file = wdir / 'words1.txt'
 
 with open(file, 'r') as reader:
@@ -18,7 +19,20 @@ word_wc = WordCloud(
 
 word_wc.generate(s)
 
+# fig, ax = plt.subplots()
+# ax.imshow(word_wc, interpolation='bilinear')
+#
+# plt.axis('off')
+# plt.figure(dpi=300)
+#
+# plt.show()
+# fig.savefig(out / 'linkedin111.jpg')
+
+
+
 plt.imshow(word_wc, interpolation='bilinear')
+
 plt.axis('off')
+
+plt.savefig((out / 'linkedin111.jpg'), dpi=300)
 plt.show()
-plt.savefig('linkedin.jpg')
