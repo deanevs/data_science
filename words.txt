@@ -1,0 +1,44 @@
+Python Python 
+Java 
+C++
+C 
+SQL SQL 
+Perl
+HTML
+PHP
+Magento
+
+PLC
+SCADA
+Atmel AVR
+
+Linux
+
+Business Intelligence
+Tableau
+
+Pandas
+
+Data Visualisation
+Data Engineering
+Data Wrangling
+Data Science
+Leadership
+Programming
+Project Management
+Research
+Automation
+Process Improvement
+MBA
+
+Embedded Electronics
+Field Engineering
+Customer Service
+
+Docker
+MongoDB
+Interfacing
+
+Technology Management
+KPI
+Reporting

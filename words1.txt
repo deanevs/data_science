@@ -1,0 +1,37 @@
+Python Python 
+Java 
+MBA MBA
+C++
+C 
+SQL SQL 
+
+PLC
+Atmel AVR
+
+Linux
+
+Business Intelligence
+Tableau
+
+Pandas
+
+Visualisation
+Wrangling
+Data Science
+Leadership
+Programming
+Project Management
+Research
+Automation
+Process Improvement
+
+Embedded Electronics
+Field Engineering
+Customer Service
+
+Docker
+MongoDB
+Interfacing
+
+KPI
+Reporting
